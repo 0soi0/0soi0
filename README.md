@@ -16,9 +16,7 @@
 |Project|Description|
 |:---:|:---:|
 |[DUKR](https://github.com/Snowchori/DUKR.git)|보드게임 정보 제공, 커뮤니티, 보드게임 오프라인 모임 주최 서비스 제공|
-
 |[TimeBoxing](https://github.com/0soi0/TimeBoxing_Flutter_Project.git)|타임박싱 시간관리 기법을 이용한 스케쥴관리 어플리케이션|
-
 |[RestFulAPI](https://github.com/0soi0/node.js_restfulAPI.git)|RestFulAPI개발 get/post/patch 기능 제공|
 
 </div>
